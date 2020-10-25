@@ -1,5 +1,6 @@
 # Stand-Aur-Gamer
 Stan para sostener auriculares Gamer, con Led RGB Neopixel en las patas de apoyo, contro WIFI app celular 
+ESTOY APRENDIENDO A USAR GITHUB PARA ORDENAR MIS PROYECTOS Y PODER COMPARTIR
 
 LA impresion 3D autos https://www.thingiverse.com/thing:2050885
 
